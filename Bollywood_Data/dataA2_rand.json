@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Bombay Velvet",
+    "genre": "drama",
+    "rating": 5.6,
+    "budget": 1180000000,
+    "PF": -0.634436441
+  },
+  {
+    "name": "I'm In Love",
+    "genre": "drama",
+    "rating": 9.2,
+    "budget": 15000000,
+    "PF": -0.989666667
+  },
+  {
+    "name": "Shivaay",
+    "genre": "thriller",
+    "rating": 6.2,
+    "budget": 1030000000,
+    "PF": 0.205296117
+  },
+  {
+    "name": "Bajrangi Bhaijaan",
+    "genre": "masala",
+    "rating": 8,
+    "budget": 1250000000,
+    "PF": 3.831952
+  },
+  {
+    "name": "PK",
+    "genre": "drama",
+    "rating": 8.1,
+    "budget": 1220000000,
+    "PF": 4.049477459
+  },
+  {
+    "name": "Brothers",
+    "genre": "action",
+    "rating": 6.5,
+    "budget": 1120000000,
+    "PF": 0.0990625
+  },
+  {
+    "name": "Jagga Jasoos",
+    "genre": "drama",
+    "rating": 6.5,
+    "budget": 1310000000,
+    "PF": -0.336967557
+  },
+  {
+    "name": "Malamaal Weekly",
+    "genre": "comedy",
+    "rating": 7,
+    "budget": 70000000,
+    "PF": 5.109714286
+  },
+  {
+    "name": "Sultan",
+    "genre": "masala",
+    "rating": 7,
+    "budget": 1450000000,
+    "PF": 2.981293103
+  },
+  {
+    "name": 1971,
+    "genre": "drama",
+    "rating": 8.1,
+    "budget": 55000000,
+    "PF": -0.917272727
+  },
+  {
+    "name": "Mohenjo Daro",
+    "genre": "drama",
+    "rating": 5.7,
+    "budget": 1380000000,
+    "PF": -0.245833333
+  },
+  {
+    "name": "Vicky Donor",
+    "genre": "comedy",
+    "rating": 7.8,
+    "budget": 100000000,
+    "PF": 5.132
+  },
+  {
+    "name": "Bheja Fry",
+    "genre": "comedy",
+    "rating": 7.6,
+    "budget": 15000000,
+    "PF": 7.386666667
+  },
+  {
+    "name": "Dansh",
+    "genre": "drama",
+    "rating": 8.3,
+    "budget": 5000000,
+    "PF": -0.8
+  },
+  {
+    "name": "Ankhon Dekhi",
+    "genre": "drama",
+    "rating": 8,
+    "budget": 47500000,
+    "PF": -0.76631579
+  },
+  {
+    "name": "Chennai Express",
+    "genre": "masala",
+    "rating": 6,
+    "budget": 1150000000,
+    "PF": 2.442819565
+  },
+  {
+    "name": "Vivah",
+    "genre": "drama",
+    "rating": 6.6,
+    "budget": 80000000,
+    "PF": 5.195
+  },
+  {
+    "name": "Kyaa Kool Hai Hum",
+    "genre": "comedy",
+    "rating": 6.1,
+    "budget": 50000000,
+    "PF": 3.57
+  },
+  {
+    "name": "Dangal",
+    "genre": "drama",
+    "rating": 8.4,
+    "budget": 1320000000,
+    "PF": 4.321780303
+  },
+  {
+    "name": "Laal Rang",
+    "genre": "drama",
+    "rating": 8,
+    "budget": 100000000,
+    "PF": -0.732
+  },
+  {
+    "name": "Masala",
+    "genre": "masala",
+    "rating": 4.7,
+    "budget": 915000000,
+    "PF": 1.591788336
+  },
+  {
+    "name": "Action",
+    "genre": "action",
+    "rating": 5.3,
+    "budget": 484536184,
+    "PF": 0.4728240339
+  },
+  {
+    "name": "Rom__com",
+    "genre": "rom__com",
+    "rating": 5.5,
+    "budget": 231919697,
+    "PF": 0.3632617621
+  },
+  {
+    "name": "Love_story",
+    "genre": "love_story",
+    "rating": 5.2,
+    "budget": 190117647,
+    "PF": 0.04774437729
+  },
+  {
+    "name": "Thriller",
+    "genre": "thriller",
+    "rating": 5.3,
+    "budget": 188088028,
+    "PF": -0.06414215638
+  }
+]
